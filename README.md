@@ -1,8 +1,8 @@
-# Simulacion de Procesos Financieros 2018-I
+# Simulacion de Procesos Financieros 2018-II
 
 En este repositorio se encuentran todas las notas del curso simulación de procesos financieros. Material adiciona será suministrado durante clase.
 
-Este curso esta dividido en 4 temas principales.
+Este curso esta dividido en los siguiente temas:
 
 `TEMA 1`: **Introducción a la Simulación**
 > En este primer módulo se aplicará una evaluación **(20%)** y se tendrán en cuenta las tareas dejadas en el horario de clase.
